@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "I Love Spider Man",
+      "body": "Spider man is a marvel movie, we love spider man because he's amazing and can fly in a cool way using spider web. He's our favorite super hero. I've always wished to become a spider man right from the first day I watched the movie, and I wish I could save the world just like him. How amazing it would be, wearing my own suit and going places i've ever imagined. I would become the world's hero and a guardian angel to the city because everyone would need me. Spider Spider Spider all the way!\n",
+      "author": "Godbless",
+      "id": 3
+    },
+    {
+      "title": "today's class",
+      "body": "today's class is between gb, john, judith and dafe the late comer",
+      "author": "Freeman",
+      "id": 5
+    },
+    {
+      "title": "My Coding Skill",
+      "body": "I started learning ho to code in the year 2020, when I was instructed by my boss OMJ to go into w3schools online and learn the basic frontend languages such as html, css and javaScript... well it has really been awesome since then. i have learnt them and also some frameworks and libraries in them such as bootstrap which is a library for css and javascript and i've also learnt react js which is a library/framework of javascript. I have also learnt a backend language and its frame work (python and its frmaework django). And i've build some simple front end projects with them.",
+      "author": "Godbless",
+      "id": 6
+    }
+  ]
+}
